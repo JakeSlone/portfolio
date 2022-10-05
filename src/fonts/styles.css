@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "AK1";
+  src: url("./Aeonik-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "AK2";
+  src: url("./Aeonik-Medium.woff") format("woff");
+}
