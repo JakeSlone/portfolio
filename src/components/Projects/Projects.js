@@ -121,7 +121,7 @@ const Projects = ({ dark }) => {
               This is the website you are on right now and my current portfolio.
             </p>
             <a
-              href="https://github.com/JakeSlone/portfolio2021"
+              href="https://github.com/JakeSlone/portfolio"
               target="_blank"
               rel="noreferrer"
             >
