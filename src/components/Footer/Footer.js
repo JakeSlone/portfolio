@@ -17,6 +17,7 @@ const Footer = ({ dark }) => {
     <Wrapper>
       <div className="container">
         <div className="tag">21 - JS &copy;</div>
+        <a href="https://github.com/JakeSlone/portfolio" className="source">Source Code</a>
         <div
           className="to-top"
           onClick={scrollToTop}

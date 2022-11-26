@@ -27,7 +27,7 @@ const Hero = ({ dark }) => {
           <h3>Hi!</h3>
           <h1>I'm Jake Slone, a Developer based in Calgary.</h1>
           <p>
-            I like to create websites and applications. I'm 23 and I have been
+            I like to create websites and applications. I'm 24 and I have been
             working as a developer for 3 years. Check out some of my projects
             and if you'd like to contact me, send me an{" "}
             <a href="mailto:jake@slone.ca">email.</a>

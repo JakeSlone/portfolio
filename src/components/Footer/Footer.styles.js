@@ -27,6 +27,11 @@ export const Wrapper = styled.div`
       align-items: center;
     }
 
+    .source {
+      display: flex;
+      align-items: center;
+    }
+
     .to-top {
       display: flex;
       align-items: center;
