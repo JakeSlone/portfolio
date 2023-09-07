@@ -7,6 +7,7 @@ import "../fonts/styles.css"
 import Projects from "../components/Projects/Projects"
 import Footer from "../components/Footer/Footer"
 import ThemeSwitch from "../components/ThemeSwitch/ThemeSwitch"
+import { Analytics } from "@vercel/analytics/react"
 
 const meta = [
   {
@@ -58,6 +59,7 @@ const IndexPage = () => {
   }
   return (
     <>
+      <Analytics />
       <GlobalStyle dark={dark} />
       <Seo
         description=""
