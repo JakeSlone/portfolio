@@ -1,7 +1,7 @@
 {
     "redirects": [
       { 
-        "source": "/view-source",
+        "source": "/",
         "destination": "https://withjoy.com/amyandjake98/welcome", 
         "permanent": true
       }
