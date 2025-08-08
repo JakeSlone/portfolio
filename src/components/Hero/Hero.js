@@ -37,7 +37,7 @@ const Hero = ({ dark }) => {
           <img src={dark ? calgs : calgsB} alt="Calgary Downtown Drawing" />
         </div>
         <p>
-          I like to create websites and applications. I'm 25 and I have been
+          I like to create websites and applications. I'm 27 and I have been
           working as a developer for 5 years. Check out some of my projects and
           if you'd like to contact me, send me an{" "}
           <a href="mailto:jake@slone.ca">email.</a>
