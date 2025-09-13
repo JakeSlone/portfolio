@@ -28,7 +28,7 @@ const Hero = ({ dark }) => {
           <h1>I'm Jake Slone, a Developer based in Calgary.</h1>
           <p>
             I like to create websites and applications. I'm 27 and I have been
-            working as a developer for 5 years. Check out some of my projects
+            working as a developer for 6 years. Check out some of my projects
             and if you'd like to contact me, send me an{" "}
             <a href="mailto:jake@slone.ca">email.</a>
           </p>
@@ -38,7 +38,7 @@ const Hero = ({ dark }) => {
         </div>
         <p>
           I like to create websites and applications. I'm 27 and I have been
-          working as a developer for 5 years. Check out some of my projects and
+          working as a developer for 6 years. Check out some of my projects and
           if you'd like to contact me, send me an{" "}
           <a href="mailto:jake@slone.ca">email.</a>
         </p>
